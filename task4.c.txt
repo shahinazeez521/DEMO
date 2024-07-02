@@ -1,0 +1,8 @@
+void main() {
+  print("Name:Muhammed\nPhone num:444444\ncollege:mes\nplace:malappuram");
+}
+/*output
+Name:Muhammed
+Phone num:444444
+college:mes
+place:malappuram*/
